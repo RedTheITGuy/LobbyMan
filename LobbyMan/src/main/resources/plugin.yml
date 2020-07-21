@@ -1,5 +1,5 @@
 name: LobbyMan
-version: 0.0
+version: 0.1
 description: "A plugin that manages lobby functions, including display and inventory management."
 main: me.RedTheITGuy.LobbyMan.Main
 api-version: 1.16

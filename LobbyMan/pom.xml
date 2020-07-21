@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>me.RedTheITGuy.LobbyMan</groupId>
   <artifactId>LobbyMan</artifactId>
-  <version>0.0</version>
+  <version>0.1</version>
   <name>Lobby Manager</name>
   <description>A plugin that manages lobby functions, including display and inventory management.</description>
   
